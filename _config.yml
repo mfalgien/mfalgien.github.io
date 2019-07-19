@@ -15,6 +15,6 @@ email: mfalgien@gmail.com
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-144200281-1"
 
 exclude: ["package.json", "src", "node_modules"]
